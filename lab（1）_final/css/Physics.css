@@ -1,0 +1,233 @@
+*{
+			padding: 0px;
+			margin: 0px;
+			border: 0px;
+			overflow: hidden;		
+		}
+		.di1{
+			position: absolute;
+			left: 0px;
+			top: 0px;
+			width: 100%;
+			height: 100%;
+			font:15px Arial, Helvetica, sans-serif;
+		}
+		.logo{
+			width: 100%;
+			height: 5%;
+			background-color: black;
+			text-align:center;
+			color: white;
+			font-family: 'Comic Sans MS', cursive, sans-serif
+		}
+		.logo p{
+			float: left;
+			line-height: 35px;
+			font-size: 30px
+		}
+		.logo img{
+			float: right;
+		}
+		.dileft{
+			width: 100%;
+			height: 95%;
+			width: 11%;			
+			border: 1px;
+			padding: 1px;
+			margin: 1px;
+			background-color: #c4f5d5;
+			overflow: scroll;
+			float: left;
+		}
+		.ul1{
+			list-style: none;
+			line-height: 40px;
+		}
+		.fo1 input{
+			border: 1px solid #aaaaaa;
+		}
+		.te1{
+			width: 90%;		
+		}
+		.ul1 a{
+			text-decoration: none;
+			color: #06401c;
+			line-height:40px;
+			display: block;
+		}
+		.ul1 a:hover{
+			background-color: #06401c;
+			color: white
+		}
+		.ul1 a:active{
+			font-style: italic;
+			font-weight: bolder;
+		}
+		.dimi{
+			width: 43%;
+			height: 92%;
+			background-color: #ded0e3;
+			border: 1px #bc2beb solid;
+			margin: 0.5%;
+			float: left;
+		}
+		.dimia1{
+			border: 1px solid #bc2beb;
+			float: right;
+			padding:5px;
+		}
+		.dimia1 a{
+			text-decoration: none;
+			color: white;
+			font-size: 20px;
+			display: block;
+			line-height: 30px
+		}
+		.dimia1:hover{
+			background-color: #bc2beb;
+			padding-color:#bc2beb;
+		}
+		.dimia1 a:active{
+			font-style: italic;
+		}
+		.dimip1{
+			font:30px 'Comic Sans MS', cursive, sans-serif;
+			background-color: #8820ac;
+		}
+		.dimidi1 img{
+			width: 130px;
+			height: 140px;
+			display: block;
+		}
+		.dimidi1{
+			 text-align: center;
+			 width: 130px;
+			height: 160px;
+			margin: 2px 15px;
+			float: left;
+		}
+		.dimidi1 a{
+			text-decoration: none;
+			color: #3900ee;
+		}
+		.dimidi1 a:active{
+			font-style: italic;
+		}
+		.dimiul{
+			font-size: 18px;
+			margin: 10px;	
+		}
+		.dimiul li{
+			font-style: italic;
+			list-style-type: square;
+			line-height: 20px;
+		}
+		.dimidi3{
+			width: 50%;
+			height: 5%;
+			text-align: center;
+			font:bold 30px 'Montserrat',sans-serif;
+			float: left;
+			background-color: #8820ac
+		}
+		.dimidi3 img{
+			width: 30px;
+			height: 30px;
+			opacity: 0.4
+		}
+		.dimidi3 img:hover{
+			opacity: 1;
+		}
+		.dimidi3 p{
+			border-right:black 1px solid;
+		}
+		.dimidi3 a:hover{
+			color: black;
+		}
+		.dimidi3 a{
+			text-decoration: none
+		}
+		.dimidi3 a:active{
+			color: black
+		}
+		.diwi{
+			margin: 0.5%;
+			height: 54%;
+			width: 43%;
+			float: left;
+			background-color: #e2e7fb;
+			border: 1px solid #0422b5;
+			overflow: auto
+
+		}
+		.diwip1{
+			font:30px 'Comic Sans MS', cursive, sans-serif;
+			background-color: #0422b5;
+		}
+		.diwi img{
+			width: 40px;
+			height: 40px;
+			margin-left: 1em;
+			float: left;
+		}
+		.diwidi1{
+			border: 1px solid #0422b5;
+			float: right;
+			padding:5px;
+		}
+		.diwidi1 a{
+			text-decoration: none;
+			color: white;
+			font-size: 20px;
+			display: block;
+			line-height: 30px
+		}
+		.diwidi1:hover{
+			background-color: #0422b5;
+			padding-color:#0422b5;
+		}
+		.diwidi1 a:active{
+			font-style: italic;
+		}
+		.diwip2{
+			line-height:25px;
+			margin: 10px;
+		}
+		.dire{
+			margin: 0.5%;
+			height: 35.7%;
+			width: 43%;
+			float: left;
+			background-color: #fcfee0;
+			border: 1px solid #f4fe56;
+			overflow: auto
+
+		}
+		.direp1{
+			font:30px 'Comic Sans MS', cursive, sans-serif;
+			background-color: #f4fe56;
+		}
+		.diredi1{
+			border: 1px solid #f4fe56;
+			float: right;
+			padding:5px;
+		}
+		.diredi1 a{
+			text-decoration: none;
+			color: #aaaaaa;
+			font-size: 20px;
+			display: block;
+			line-height: 30px
+		}
+		.diredi1:hover{
+			background-color: #f4fe56;
+			padding-color:#f4fe56;
+		}
+		.diredi1 a:active{
+			font-style: italic;
+		}
+		.direul1{
+			line-height: 21px;
+			list-style: square;
+			margin: 10px;
+			font-style: italic;
